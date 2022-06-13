@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://i.imgur.com/HbYiCz0.png" alt="bright-moments-logo" />
+</p>
+
 # Crypto Citizen Viewer
 Powered by Zora API
 
