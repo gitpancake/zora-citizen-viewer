@@ -13,4 +13,6 @@ Hosted on [Vercel](https://zora-citizen-viewer.vercel.app/)
 
 Bootstrapped with [Create React App](https://create-react-app.dev/)
 
+---
+
 Made with ♥ by Bright Moments 
